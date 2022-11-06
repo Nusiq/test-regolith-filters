@@ -1,0 +1,11 @@
+{
+	"description": "Test filter for nim requirements",
+	"filters": [
+		{
+			"name": "my-test-nim-filter",
+			"script": "./main.nim",
+			"requirements": "dumb/path/for",
+			"runWith": "nim"
+		}
+	]
+}

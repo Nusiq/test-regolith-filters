@@ -3,7 +3,7 @@
 	"filters": [
 		{
 			"name": "my-test-nim-filter",
-			"script": "./index.js",
+			"script": "./src/index.js",
 			"runWith": "nodejs"
 		}
 	]

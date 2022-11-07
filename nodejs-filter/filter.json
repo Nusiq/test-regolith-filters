@@ -4,6 +4,7 @@
 		{
 			"name": "my-test-nim-filter",
 			"script": "./src/index.js",
+			"requirements": ".",
 			"runWith": "nodejs"
 		}
 	]

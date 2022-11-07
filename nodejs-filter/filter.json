@@ -1,0 +1,10 @@
+{
+	"description": "Test filter for NodeJS requirements",
+	"filters": [
+		{
+			"name": "my-test-nim-filter",
+			"script": "./main.nim",
+			"runWith": "nodejs"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"description": "Test filter for Python requirements",
+	"filters": [
+		{
+			"name": "my-test-python-filter",
+			"script": "./src/main.py",
+			"requirements": ".",
+			"runWith": "python"
+		}
+	]
+}

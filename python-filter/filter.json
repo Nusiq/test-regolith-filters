@@ -4,7 +4,7 @@
 		{
 			"name": "my-test-python-filter",
 			"script": "./src/main.py",
-			"requirements": ".",
+			"requirements": "requirements.txt",
 			"runWith": "python"
 		}
 	]

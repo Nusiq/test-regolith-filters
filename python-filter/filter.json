@@ -3,7 +3,8 @@
 	"filters": [
 		{
 			"name": "my-test-python-filter",
-			"script": "./main.py",
+			"script": "./src/main.py",
+			"requirements": "requirements.txt",
 			"runWith": "python"
 		}
 	]
